@@ -57,9 +57,9 @@ KB IT's Your Life 4기
 	    </a>
 	    <br />
 	</td>
-	<!-- <td align="center">
-	    <a href="https://github.com/Austin-Choi">
-	    	<img src="https://avatars.githubusercontent.com/u/33799946?v=4?s=100" width="100px;" alt=""/>
+	<td align="center">
+	    <a href="https://github.com/GabeenKim">
+	    	<img src="https://avatars.githubusercontent.com/u/77683472?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
 	    	<b>김가빈</b>
@@ -68,7 +68,7 @@ KB IT's Your Life 4기
 	        </sub>
 	    </a>
 	    <br />
-	</td> -->
+	</td>
     </tr>
 </table>
 
