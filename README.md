@@ -86,7 +86,7 @@ KB IT's Your Life 4기
  - 어떻게 풀었는지 발표: 랜덤 3명 
  - 더 효율적이게 풀 수 있는 방법 
  - 그 3명이 다음주 문제도 정하기 
-2. 준모님이 문제 고르기
+2. 문제 고르기
 3. 월요일 00시까지 깃헙에 코드 업로드
 4. 오프라인 모임 때 문제 1개 골라서 토론: 한 번 해보고 별로면 다음부터 실행x
 
@@ -130,5 +130,9 @@ git commit -m "Hello World / 1분"
     <tr style="text-align: center">
         <td>B</td><td>1343</td><td>큐</td><td>실버3</td>
         <td><a href="https://www.acmicpc.net/problem/1966">바로가기</a></td>
+	</tr>
+	    <tr style="text-align: center">
+        <td>B</td><td>1158</td><td>요세푸스 문제</td><td>실버4</td>
+        <td><a href="https://www.acmicpc.net/problem/1158">바로가기</a></td>
     </tr>
 </table>
