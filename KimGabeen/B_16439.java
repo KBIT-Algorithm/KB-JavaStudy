@@ -17,6 +17,7 @@ public class B_16439 {
 		
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
+
 		arr = new int[N][M];
 		col = new int[3];
 		v= new boolean[M];
@@ -40,6 +41,7 @@ public class B_16439 {
 			int result =0;
 			//뽑힌 3개의 열 조합들을 0~N-1행마다 골랐을 때 만족도가 최대가 되는 경우를 구함.  
 			for(int i=0;i<N;i++) {
+				//각 만족도 구하기 위한 변수
 				int likes = 0;
 				for(int j : col) {
 					likes = Math.max(likes, arr[i][j]);
