@@ -30,7 +30,7 @@ public class B_6603 {
 			System.out.println();
 		}//테스트 케이스 K==0이면 종료
 	}
-	//K개 중에서 6개의 조합을 고르는 메소드, 중복X,순서상관X
+	//K개 중에서 6개의 조합을 고르는 메소드, 중복X,순서 상관X
 	//크기가 6인 정답배열의 인덱스 n, 저장할 숫자 선택을 위한 변수
 	public static void dfs(int n, int start) {
 		//종료조건:6개 까지 뽑았을 경우 종료
