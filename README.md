@@ -1,11 +1,11 @@
-# ðŸ“– KB ì•Œê³ ë¦¬ì¦˜ ìŠ¤í„°ë”” ðŸ“–
+# ? KB ¾Ë°í¸®Áò ½ºÅÍµð ?
 
-KB IT's Your Life 4ê¸°
+KB IT's Your Life 4±â
 
 <hr/>
 <br/>
 
-# 0ï¸âƒ£ ìŠ¤í„°ë”” ë©¤ë²„
+# 0?? ½ºÅÍµð ¸â¹ö
 
 <table>
     <tr>
@@ -14,7 +14,7 @@ KB IT's Your Life 4ê¸°
 	    	<img src="https://avatars.githubusercontent.com/u/108059303?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>ì´ì¤€ëª¨</b>
+	    	<b>ÀÌÁØ¸ð</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -26,7 +26,7 @@ KB IT's Your Life 4ê¸°
 	    	<img src="https://avatars.githubusercontent.com/u/121994108?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>ê°•í˜œë¦¬</b>
+	    	<b>°­Çý¸®</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -38,7 +38,7 @@ KB IT's Your Life 4ê¸°
 	    	<img src="https://avatars.githubusercontent.com/u/76734572?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>ìœ¤ë‹¤ì¸</b>
+	    	<b>À±´ÙÀÎ</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -50,7 +50,7 @@ KB IT's Your Life 4ê¸°
 	    	<img src="https://avatars.githubusercontent.com/u/43288938?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>ì¡°ì•„ë¦„</b>
+	    	<b>Á¶¾Æ¸§</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -62,7 +62,7 @@ KB IT's Your Life 4ê¸°
 	    	<img src="https://avatars.githubusercontent.com/u/77683472?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>ê¹€ê°€ë¹ˆ</b>
+	    	<b>±è°¡ºó</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -72,67 +72,86 @@ KB IT's Your Life 4ê¸°
     </tr>
 </table>
 
-# 1ï¸âƒ£ ì§„í–‰ ë°©ë²•
+# 1?? ÁøÇà ¹æ¹ý
 
-1. ë³¸ì¸ ë¡œì»¬ í™˜ê²½ì—ì„œ ë¬¸ì œ í’€ì´ë¥¼ ì§„í–‰
-2. ì›ê²© ì €ìž¥ì†Œì—ì„œ ì½”ë“œë¥¼ ë°›ì•„ì™€ ë¡œì»¬ statusë¥¼ ìµœì‹ í™” (pull)
-3. ë³¸ì¸ì´ ìž‘ì„±í•œ ì½”ë“œë¥¼ í¬í•¨í•œ ë¡œì»¬ statusë¥¼ ì›ê²© ì €ìž¥ì†Œë¡œ ë³´ëƒ„ (push)
-4. ë°˜ë“œì‹œ `commit ê·œì¹™`ì„ ì§€ì¼œì„œ ì—…ë¡œë“œ
-5. ì• ë§¤í•œ ì‚¬í•­(conflict ë“±)ì´ ìžˆìœ¼ë©´ íŒ€ì›ë“¤ê³¼ ìƒì˜í•œ ë’¤ ê²°ì •
-6. **âš ï¸ ë‚¨ì˜ í´ë”ëŠ” ê±´ë“¤ì§€ ë§ ê²ƒ!**
-### ê·œì¹™
-0. ì•Œê³ ë¦¬ì¦˜ ìˆ˜ì—… ë¡œë“œë§µëŒ€ë¡œ ì¼ì£¼ì¼ì— 3ë¬¸ì œ, ë°±ì¤€ ì‹¤ë²„ 1 2 3
-1. ë§¤ì£¼ í™”ìš”ì¼ ìˆ˜ì—… ëë‚˜ê³  ì˜¤í”„ë¼ì¸ ëª¨ìž„
- - ì–´ë–»ê²Œ í’€ì—ˆëŠ”ì§€ ë°œí‘œ: ëžœë¤ 3ëª… 
- - ë” íš¨ìœ¨ì ì´ê²Œ í’€ ìˆ˜ ìžˆëŠ” ë°©ë²• 
- - ê·¸ 3ëª…ì´ ë‹¤ìŒì£¼ ë¬¸ì œë„ ì •í•˜ê¸° 
-2. ë¬¸ì œ ê³ ë¥´ê¸°
-3. ì›”ìš”ì¼ 00ì‹œê¹Œì§€ ê¹ƒí—™ì— ì½”ë“œ ì—…ë¡œë“œ
-4. ì˜¤í”„ë¼ì¸ ëª¨ìž„ ë•Œ ë¬¸ì œ 1ê°œ ê³¨ë¼ì„œ í† ë¡ : í•œ ë²ˆ í•´ë³´ê³  ë³„ë¡œë©´ ë‹¤ìŒë¶€í„° ì‹¤í–‰x
+1. º»ÀÎ ·ÎÄÃ È¯°æ¿¡¼­ ¹®Á¦ Ç®ÀÌ¸¦ ÁøÇà
+2. ¿ø°Ý ÀúÀå¼Ò¿¡¼­ ÄÚµå¸¦ ¹Þ¾Æ¿Í ·ÎÄÃ status¸¦ ÃÖ½ÅÈ­ (pull)
+3. º»ÀÎÀÌ ÀÛ¼ºÇÑ ÄÚµå¸¦ Æ÷ÇÔÇÑ ·ÎÄÃ status¸¦ ¿ø°Ý ÀúÀå¼Ò·Î º¸³¿ (push)
+4. ¹Ýµå½Ã `commit ±ÔÄ¢`À» ÁöÄÑ¼­ ¾÷·Îµå
+5. ¾Ö¸ÅÇÑ »çÇ×(conflict µî)ÀÌ ÀÖÀ¸¸é ÆÀ¿øµé°ú »óÀÇÇÑ µÚ °áÁ¤
+6. **?? ³²ÀÇ Æú´õ´Â °ÇµéÁö ¸» °Í!**
 
-# 2ï¸âƒ£ ì†ŒìŠ¤ì½”ë“œ íŒŒì¼ ì´ë¦„ ê·œì¹™
+### ±ÔÄ¢
 
-- ì¶œì²˜\_Që¬¸ì œë²ˆí˜¸.java
+0. ¾Ë°í¸®Áò ¼ö¾÷ ·Îµå¸Ê´ë·Î ÀÏÁÖÀÏ¿¡ 3¹®Á¦, ¹éÁØ ½Ç¹ö 1 2 3
+1. ¸ÅÁÖ È­¿äÀÏ ¼ö¾÷ ³¡³ª°í ¿ÀÇÁ¶óÀÎ ¸ðÀÓ
+
+- ¾î¶»°Ô Ç®¾ú´ÂÁö ¹ßÇ¥: ·£´ý 3¸í
+- ´õ È¿À²ÀûÀÌ°Ô Ç® ¼ö ÀÖ´Â ¹æ¹ý
+- ±× 3¸íÀÌ ´ÙÀ½ÁÖ ¹®Á¦µµ Á¤ÇÏ±â
+
+2. ¹®Á¦ °í¸£±â
+3. ¿ù¿äÀÏ 00½Ã±îÁö ±êÇé¿¡ ÄÚµå ¾÷·Îµå
+4. ¿ÀÇÁ¶óÀÎ ¸ðÀÓ ¶§ ¹®Á¦ 1°³ °ñ¶ó¼­ Åä·Ð: ÇÑ ¹ø ÇØº¸°í º°·Î¸é ´ÙÀ½ºÎÅÍ ½ÇÇàx
+
+# 2?? ¼Ò½ºÄÚµå ÆÄÀÏ ÀÌ¸§ ±ÔÄ¢
+
+- ÃâÃ³\_Q¹®Á¦¹øÈ£.java
 - `B_1234.java`
-- ë¬¸ì œì¶œì²˜ ìž‘ì„± í†µì¼
-  - B - ë°±ì¤€
-  - S - ì‚¼ì„± SW Expert Acadamy
-  - P - í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤
+- ¹®Á¦ÃâÃ³ ÀÛ¼º ÅëÀÏ
+  - B - ¹éÁØ
+  - S - »ï¼º SW Expert Acadamy
+  - P - ÇÁ·Î±×·¡¸Ó½º
 
-# 3ï¸âƒ£ commit ê·œì¹™
+# 3?? commit ±ÔÄ¢
 
-- commit ë©”ì„¸ì§€: ë¬¸ì œì´ë¦„ / ê±¸ë¦°ì‹œê°„
-- í„°ë¯¸ë„ ìž‘ì„±ë²•:
+- commit ¸Þ¼¼Áö: ¹®Á¦ÀÌ¸§ / °É¸°½Ã°£
+- ÅÍ¹Ì³Î ÀÛ¼º¹ý:
 
 ```
-git commit -m "Hello World / 1ë¶„"
+git commit -m "Hello World / 1ºÐ"
 ```
 
-# 4ï¸âƒ£ ì½”ë“œë¦¬ë·° ê·œì¹™
+# 4?? ÄÚµå¸®ºä ±ÔÄ¢
 
-- ì˜ê²¬ì œì‹œ
-  - ìž˜í–ˆë‹¤ê³  ìƒê°í•˜ëŠ” ë¶€ë¶„
-  - ì´ë ‡ê²Œ í•˜ë©´ ë” ì¢‹ì„ ê²ƒ ê°™ë‹¤ê³  ìƒê°í•˜ëŠ” ë¶€ë¶„
-  - ì™œ ì´ë ‡ê²Œ í’€ì—ˆëŠ”ì§€ ê¶ê¸ˆí•œ ë¶€ë¶„
-  - ë˜ ë‹¤ë¥¸ í’€ì´ ë°©ì‹ ì œì‹œ
-  - ë§‰ížŒ ë¬¸ì œëŠ” ì½”ë“œë¦¬ë·° ì‹œê°„ì— ê°™ì´ í•´ê²°
-- âš ï¸ ìµœëŒ€í•œ ì£¼ì„ì„ ë§Žì´ ìž‘ì„±í•´ ì£¼ì„¸ìš”
+- ÀÇ°ßÁ¦½Ã
+  - ÀßÇß´Ù°í »ý°¢ÇÏ´Â ºÎºÐ
+  - ÀÌ·¸°Ô ÇÏ¸é ´õ ÁÁÀ» °Í °°´Ù°í »ý°¢ÇÏ´Â ºÎºÐ
+  - ¿Ö ÀÌ·¸°Ô Ç®¾ú´ÂÁö ±Ã±ÝÇÑ ºÎºÐ
+  - ¶Ç ´Ù¸¥ Ç®ÀÌ ¹æ½Ä Á¦½Ã
+  - ¸·Èù ¹®Á¦´Â ÄÚµå¸®ºä ½Ã°£¿¡ °°ÀÌ ÇØ°á
+- ?? ÃÖ´ëÇÑ ÁÖ¼®À» ¸¹ÀÌ ÀÛ¼ºÇØ ÁÖ¼¼¿ä
 
-# âœ… ë¬¸ì œ
+# ? ¹®Á¦
 
 <table>
-    <!-- 23.07.25 ë¬¸ì œ -->
+    <!-- 23.07.25 ¹®Á¦ -->
     <tr style="text-align: center">
-        <td rowspan="3">1ì£¼ì°¨</td>
-        <td>B</td><td>5215</td><td>ìŠ¤íƒ</td><td>ì‹¤ë²„4</td>
-        <td><a href="https://www.acmicpc.net/problem/10828">ë°”ë¡œê°€ê¸°</a></td>
+        <td rowspan="3">1ÁÖÂ÷</td>
+        <td>B</td><td>5215</td><td>½ºÅÃ</td><td>½Ç¹ö 4</td>
+        <td><a href="https://www.acmicpc.net/problem/10828">¹Ù·Î°¡±â</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>B</td><td>1343</td><td>í</td><td>ì‹¤ë²„3</td>
-        <td><a href="https://www.acmicpc.net/problem/1966">ë°”ë¡œê°€ê¸°</a></td>
+        <td>B</td><td>1343</td><td>Å¥</td><td>½Ç¹ö 3</td>
+        <td><a href="https://www.acmicpc.net/problem/1966">¹Ù·Î°¡±â</a></td>
 	</tr>
 	    <tr style="text-align: center">
-        <td>B</td><td>1158</td><td>ìš”ì„¸í‘¸ìŠ¤ ë¬¸ì œ</td><td>ì‹¤ë²„4</td>
-        <td><a href="https://www.acmicpc.net/problem/1158">ë°”ë¡œê°€ê¸°</a></td>
+        <td>B</td><td>1158</td><td>¿ä¼¼Çª½º ¹®Á¦</td><td>½Ç¹ö 4</td>
+        <td><a href="https://www.acmicpc.net/problem/1158">¹Ù·Î°¡±â</a></td>
     </tr>
+	 <!-- 23.08.01 ¹®Á¦ -->	
+    <tr style="text-align: center">
+	<td rowspan="4">2ÁÖÂ÷</td>
+        <td>B</td><td>6603</td><td>·Î¶Ç</td><td>½Ç¹ö 2</td>
+        <td><a href="https://www.acmicpc.net/problem/6603">¹Ù·Î°¡±â</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>B</td><td>16439</td><td>Ä¡Å²Ä¡Å²Ä¡Å²</td><td>½Ç¹ö 4</td>
+        <td><a href="https://www.acmicpc.net/problem/16439">¹Ù·Î°¡±â</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>B</td><td>14620</td><td>²É±æ</td><td>½Ç¹ö 2</td>
+        <td><a href="https://www.acmicpc.net/problem/14620">¹Ù·Î°¡±â</a></td>
+    </tr>
+
 </table>
