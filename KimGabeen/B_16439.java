@@ -51,6 +51,7 @@ public class B_16439 {
 			return;
 		}
 
+		//중복확인 할 필요 X
 		//현 시작지점 부터 열 탐색하며
 		for(int j=start;j<M;j++) {
 			//n번 인덱스에 현재 선택한 열 저장.
