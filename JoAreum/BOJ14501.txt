@@ -1,0 +1,65 @@
+--------------(((((((백트래킹))))))))))
+def recur(day, money):
+    global answer
+
+    if day>n+1:
+        return
+    
+    if day==n+1:
+        answer = max(money, answer)
+	return
+
+    recur(day+table[day][0],money+table[day][1]) # 상담할 때
+
+    recur(day+1, money) # 상담하지 않을 때
+
+
+
+
+n = int(input())
+table = [[] for _ in range(n+1)]
+
+for i in range(n):
+	a,b = map(int,input().split())
+	table[i+1] = [a,b]
+
+answer = 0
+
+
+recur(1,0)
+
+print(answer)
+
+--------------------- (((((((((DP))))))))
+def recur(day):
+
+    if dp[day]!= -1:
+        return dp[day]
+
+    if day>n+1:
+        return -99999999999
+    
+    if day==n+1:
+	return 0
+
+    dp[day] = max(recur(day+table[day][0]) + table[day][1],recur(day+1))
+
+    return dp[day]
+
+
+
+
+n = int(input())
+table = [[] for _ in range(n+1)]
+
+for i in range(n):
+	a,b = map(int,input().split())
+	table[i+1] = [a,b]
+
+answer = 0
+
+dp=[-1 for _in range(n+1)]
+
+recur(1)
+
+print(max(dp))
