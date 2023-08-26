@@ -141,7 +141,7 @@ git commit -m "Hello World / 1분"
     </tr>
 	 <!-- 23.08.01 문제 -->	
     <tr style="text-align: center">
-	<td rowspan="4">2주차</td>
+	<td rowspan="3">2주차</td>
         <td>B</td><td>6603</td><td>로또</td><td>실버 2</td>
         <td><a href="https://www.acmicpc.net/problem/6603">바로가기</a></td>
     </tr>
@@ -152,6 +152,32 @@ git commit -m "Hello World / 1분"
     <tr style="text-align: center">
         <td>B</td><td>14620</td><td>꽃길</td><td>실버 2</td>
         <td><a href="https://www.acmicpc.net/problem/14620">바로가기</a></td>
+    </tr>
+	<tr style="text-align: center">
+    <td rowspan="3">3주차</td>
+        <td>B</td><td>2503</td><td>숫자야구</td><td>실버 3</td>
+        <td><a href="https://www.acmicpc.net/problem/2503">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>B</td><td>9095</td><td>1,2,3 더하기</td><td>실버 3</td>
+        <td><a href="https://www.acmicpc.net/problem/9095">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>B</td><td>14501</td><td>퇴사</td><td>실버 3</td>
+        <td><a href="https://www.acmicpc.net/problem/14501">바로가기</a></td>
+    </tr>
+	<tr style="text-align: center">
+    <td rowspan="3">4주차</td>
+        <td>B</td><td>2309</td><td>일곱 난쟁이</td><td>브론즈 1</td>
+        <td><a href="https://www.acmicpc.net/problem/2309">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>B</td><td>1012</td><td>유기농 배추</td><td>실버 2</td>
+        <td><a href="https://www.acmicpc.net/problem/1012">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>B</td><td>16173</td><td>점프왕 젤리</td><td>실버 4</td>
+        <td><a href="https://www.acmicpc.net/problem/16173">바로가기</a></td>
     </tr>
 
 </table>
